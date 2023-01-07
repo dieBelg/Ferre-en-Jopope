@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "Ferre en Jopope",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 118755,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9860529986052998,
+            "y": 0.5,
+            "uniqueID": 750238,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
